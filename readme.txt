@@ -8,12 +8,12 @@ ht01accident2 : only combined and de-disastered into accident1.
 ht02hazard : have not started.
 ht03uplink : barely started.
 ht04dampen : fully completed. Has some changes I dont remember.
-ht05dorms : fully completed. dont remember changes but I dont believe theyre too bad.
+ht05dorms : fully completed. I don't remember all the changes but I dont believe they're too bad. Though alot of nodraw surfaces have been given textures. 
 ht07signal : fully complete.
 ht10focus : fully complete.
 ht11lasers : fully complete.
 ht12fubar : have not started.
-ht91alien : fully complete. has some fake lights to better recreate original lighting
+ht91alien : fully complete. Has some fake lights to better recreate original lighting.
 
 I also did these, same principles from above apply (changing ents, textures to work in source).
 PS2 Deathmatch maps :
