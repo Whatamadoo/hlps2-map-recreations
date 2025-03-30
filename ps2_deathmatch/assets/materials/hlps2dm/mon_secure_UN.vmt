@@ -1,0 +1,5 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "hlps2dm/mon_secure_UN"
+	$surfaceprop glass
+}

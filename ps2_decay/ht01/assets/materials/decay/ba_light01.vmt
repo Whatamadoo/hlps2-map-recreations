@@ -1,0 +1,5 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "decay/ba_light01"
+	$selfillum 1
+}

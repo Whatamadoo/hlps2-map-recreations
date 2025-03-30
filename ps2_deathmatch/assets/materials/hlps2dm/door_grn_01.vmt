@@ -1,0 +1,5 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "hlps2dm/door_grn_01"
+	$surfaceprop metal
+}

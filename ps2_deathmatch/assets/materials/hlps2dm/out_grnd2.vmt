@@ -1,0 +1,5 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "hlps2dm/out_grnd2"
+	$surfaceprop grass
+}

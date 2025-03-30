@@ -1,0 +1,5 @@
+LightmappedGeneric
+{
+	$basetexture gm_ht10_focus/decayreal/nodraw
+	%compilenodraw 1
+}

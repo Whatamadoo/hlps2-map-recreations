@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	"$detail"		"detail/detail_noise1"
+	"$detailscale"		"2.500000"
+	"$basetexture"		"halflife/lab1_comp10f"
+	"$model"		"1"
+}

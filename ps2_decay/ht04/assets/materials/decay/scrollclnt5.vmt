@@ -1,0 +1,17 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "decay/scrollclnt5"
+	"Proxies"
+	{
+		"TextureScroll"
+		{
+			"texturescrollvar" "$baseTextureTransform"
+			"texturescrollrate" "2.5"
+			"texturescrollangle" "180.00"
+		}
+		"ConveyorScroll"
+		{
+			"texturescrollvar" "$baseTextureTransform"
+		}
+	}
+}

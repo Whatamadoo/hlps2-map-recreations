@@ -1,0 +1,7 @@
+"LightmappedGeneric"
+{
+	$basetexture hlps2dm/h2otank_top
+	"$detail" "detail/detail_noise1"
+	"$detailscale" 2.5
+	$surfaceprop metal
+}

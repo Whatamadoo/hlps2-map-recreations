@@ -1,0 +1,7 @@
+VertexLitGeneric
+{
+	$envmap  gm_ht10_focus\models\focus_emitter\BLACK_Chrome
+	$model 1
+	"$envmapsphere"		1
+	"$envmapmode" 1
+}

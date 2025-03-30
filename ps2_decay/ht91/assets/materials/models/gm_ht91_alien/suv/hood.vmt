@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/gm_ht91_alien/suv/hood"
+	$flashlightnolambert 1
+	$nocull 1 
+}

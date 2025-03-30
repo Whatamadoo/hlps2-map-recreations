@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$envmap" "models\gm_ht11_lasers\broken_tube_glass\glass_chrome"
+	"$envmapsphere"	1
+	"$envmapmode" 1
+}

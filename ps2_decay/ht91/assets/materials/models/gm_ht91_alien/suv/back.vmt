@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/gm_ht91_alien/suv/back"
+	$nocull 1
+	$flashlightnolambert 1
+}

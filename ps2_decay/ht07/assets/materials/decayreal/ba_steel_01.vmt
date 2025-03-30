@@ -1,0 +1,5 @@
+LightmappedGeneric
+{
+	$basetexture decayreal/ba_steel_01
+	$surfaceprop metal
+}

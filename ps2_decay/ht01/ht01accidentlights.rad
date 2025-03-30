@@ -1,0 +1,10 @@
+
+halflife/~light5a 200 200 255 500
+
+halflife/+0~light3a 255 255 255 200
+
+decay/ba_light01			255 255 255 200
+halflife/+0~generic86r		255 0 0 200
+halflife/~light5a			255 255 255 200
+halflife/+a~light3a			255 255 255 50
+halflife/+0~fifties_lgt2	255 255 255 200 

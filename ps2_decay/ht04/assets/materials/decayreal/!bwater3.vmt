@@ -1,0 +1,9 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "decayREAL/!bwater3"
+	"$surfaceprop" "water"
+	"%compilewater" 1
+	"$abovewater" 1
+	"$bottommaterial" "decayREAL/!bwater3under"
+	$alpha 0.392
+}

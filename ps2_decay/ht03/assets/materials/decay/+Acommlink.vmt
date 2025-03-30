@@ -1,0 +1,12 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "decay/+Acommlink"
+	Proxies
+	{
+		ToggleTexture
+		{
+			ToggleTextureVar	$basetexture
+			ToggleTextureFrameNumVar	$frame
+		}
+	}
+}

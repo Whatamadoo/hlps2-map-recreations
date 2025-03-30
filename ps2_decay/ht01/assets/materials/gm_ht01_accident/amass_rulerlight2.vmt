@@ -1,0 +1,16 @@
+"UnlitGeneric"
+{
+	// Original shader: BaseTimesLightmap
+	"$detail" "detail/detail_noise1"
+	"$detailscale" 2.5
+	"$basetexture" "gm_ht01_accident/amass_rulerlight2"
+	"$surfaceprop" "glass"
+	"Proxies"
+	{
+		"ToggleTexture"
+		{
+			"ToggleTextureVar" "$basetexture"
+			"ToggleTextureFrameNumVar" "$frame"
+		}
+	}
+}

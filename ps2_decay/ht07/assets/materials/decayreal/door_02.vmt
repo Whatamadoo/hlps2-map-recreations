@@ -1,0 +1,5 @@
+LightmappedGeneric
+{
+	$basetexture decayreal/door_02
+	$surfaceprop metal
+}

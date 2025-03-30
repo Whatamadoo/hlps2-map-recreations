@@ -1,0 +1,5 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "halflifeREAL/glass_bright"
+	"$surfaceprop" "Glass"
+}

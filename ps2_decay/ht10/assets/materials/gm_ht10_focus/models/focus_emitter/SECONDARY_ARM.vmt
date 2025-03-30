@@ -1,0 +1,5 @@
+VertexLitGeneric
+{
+	$basetexture  gm_ht10_focus\models\focus_emitter\SECONDARY_ARM
+	$model 1
+}

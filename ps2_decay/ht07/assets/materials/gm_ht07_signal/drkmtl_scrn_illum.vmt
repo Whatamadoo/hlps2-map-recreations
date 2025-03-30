@@ -1,0 +1,9 @@
+"LightmappedGeneric"
+{
+	// selfillum because .rad files dont light the brush projecting the light like in goldsource
+	"$detail" "detail/detail_noise1"
+	"$detailscale" 2.5
+	"$basetexture" "halflife/+a~drkmtl_scrn"
+	"$surfaceprop" "computer"
+	$selfillum 1
+}

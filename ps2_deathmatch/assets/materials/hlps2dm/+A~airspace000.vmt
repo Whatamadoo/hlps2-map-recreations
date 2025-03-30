@@ -1,0 +1,15 @@
+"LightmappedGeneric"
+{
+	$basetexture hlps2dm/+A~airspace000
+	"$detail" "detail/detail_noise1"
+	"$detailscale" 2.5
+	$surfaceprop glass
+	"Proxies"
+	{
+		"ToggleTexture"
+		{
+			"toggletexturevar" "$basetexture"
+			"toggletextureframenumvar" "$frame"
+		}
+	}
+}

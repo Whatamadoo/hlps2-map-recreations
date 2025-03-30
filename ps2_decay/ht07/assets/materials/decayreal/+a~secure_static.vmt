@@ -1,0 +1,10 @@
+LightmappedGeneric
+{
+	// oh my gooooooooddddd
+	// So apparently when you use env_texturetoggle to change a texture on a brush, it will change every instance on the map even when the brush is NOT AN ENTITY 
+	// WHATEVER TEXTURE FRAME IS ON SCREEN LAST WILL BE DISPLAYED ON EVERYTHING ELSE AS WELL. I don't like that this problem exists, because it means I need to make 
+	// vmt for a 'static' version so that it wont change no matter what.
+	$basetexture decayreal/+a~secure
+	$surfaceprop computer
+	$selfillum 1
+}

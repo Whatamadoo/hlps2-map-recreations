@@ -1,0 +1,8 @@
+"UnlitGeneric"
+{
+	// different because additive rendermode doesnt fullbright the brush like in goldsource also glass surfaceprop instead of metal
+	"$detail" "detail/detail_noise1"
+	"$detailscale" 2.5
+	"$basetexture" "halflife/generic028"
+	"$surfaceprop" "glass"
+}

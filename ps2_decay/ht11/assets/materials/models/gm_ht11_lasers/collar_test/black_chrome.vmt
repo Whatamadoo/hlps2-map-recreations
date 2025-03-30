@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$envmap" "models/gm_ht11_lasers/collar_test/black_chrome"
+		"$envmapsphere"			1
+	"$envmapmode" 1
+}

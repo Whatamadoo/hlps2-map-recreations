@@ -1,0 +1,29 @@
+
+halflife/~light5a 80 150 200 200
+
+halflife/+0~light3a 180 180 230 700
+
+decay/ba_light01			255 255 255 200
+halflife/+0~generic86r		255 0 0 200
+halflife/+a~light3a			180 180 230 100
+HALFLIFE/+0~FIFTIES_LGT2	255 255 255 0 
+HALFLIFE/+a~FIFTIES_LGT2	255 255 255 0 
+decay/0~FIFTIES_LGT2		160 170 220 300 
+halflife/~light3c			255 248 192 200
+halflife/+0~LIGHT4A			200 190 130 450
+decay/0light5a				80 150 200 200
+
+
+halflife/+0~GENERIC86 252 192 12 150
+halflife/+a~generic86 176 201 222 150
+halflife/+0~GENERIC86B 158 220 201 150
+halflife/+0~FIFTS_LGHT01 160 170 220 2200
+halflife/+0~LIGHT1 140 227 255  350
+halflife/+0~TNNL_LGT2 190 255 255 1100
+halflife/~LAB_CRT9A 225 150 150 8
+halflife/~LAB_CRT9B 100 100 255 8
+halflife/~LAB_CRT9C 100 200 150 8
+halflife/~LIGHT3A 190 20 20 38
+halflife/FIFTIES_MON1B 100 100 180 5
+halflife/ELEV2_CIEL 255 200 100 21
+halflife/YELLOW 255 200 100 60

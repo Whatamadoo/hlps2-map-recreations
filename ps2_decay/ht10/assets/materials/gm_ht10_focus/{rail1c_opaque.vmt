@@ -1,0 +1,11 @@
+"LightmappedGeneric"
+{
+	// Original shader: BaseTimesLightmapAlphaBlend
+	"%compilepassbullets" 1
+	// world brushes without special rendermodes in goldsource dont have transparency!
+	//"$alphatest" 1
+	"$detail" "detail/detail_noise1"
+	"$detailscale" 2.5
+	"$basetexture" "halflife/{rail1c"
+	"$surfaceprop" "metal"
+}

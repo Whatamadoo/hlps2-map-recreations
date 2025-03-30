@@ -1,0 +1,6 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "hlps2dm/ba_fifties_lgt2"
+	$surfaceprop glass
+	$selfillum 1
+}

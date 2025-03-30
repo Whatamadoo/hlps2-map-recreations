@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/gm_ht04_dampen/apache2/APACHE_02_SM"
+	"$surfaceprop" "Metal"
+}

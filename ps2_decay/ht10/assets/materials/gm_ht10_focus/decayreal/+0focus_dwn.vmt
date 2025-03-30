@@ -1,0 +1,12 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "gm_ht10_focus/decayreal/+0focus_dwn"
+	Proxies
+	{
+		ToggleTexture
+		{
+			toggletexturevar $basetexture
+			toggletextureframenumvar $frame
+		}
+	}
+}

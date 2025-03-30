@@ -1,0 +1,13 @@
+LightmappedGeneric
+{
+	$basetexture decayreal/+0~air
+	$surfaceprop computer
+	Proxies
+	{
+		ToggleTexture
+		{
+			toggletexturevar $basetexture
+			toggletextureframenumvar $frame
+		}
+	}
+}

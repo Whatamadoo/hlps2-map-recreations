@@ -1,0 +1,7 @@
+"LightmappedGeneric"
+{
+	$basetexture hlps2dm/door_02
+	"$detail" "detail/detail_noise1"
+	"$detailscale" 2.5
+	$surfaceprop metal
+}

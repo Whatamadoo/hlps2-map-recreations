@@ -1,0 +1,9 @@
+Sky
+{
+	//I wish these didn't have to be in the skybox folder.
+	$basetexture skybox/hlps2dm_nightlf
+	$hdrbasetexture skybox/hlps2dm_nightlf
+	$nofog 1
+	$nomip 1
+	$ignorez 1
+}

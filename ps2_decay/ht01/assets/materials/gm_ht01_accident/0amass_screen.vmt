@@ -1,0 +1,16 @@
+"LightmappedGeneric"
+{
+	// Original shader: BaseTimesLightmap
+	"$detail" "detail/detail_noise1"
+	"$detailscale" 2.5
+	"$basetexture" "gm_ht01_accident/0amass_screen"
+	"$surfaceprop" "computer"
+	"Proxies"
+	{
+		"ToggleTexture"
+		{
+			"ToggleTextureVar" "$basetexture"
+			"ToggleTextureFrameNumVar" "$frame"
+		}
+	}
+}

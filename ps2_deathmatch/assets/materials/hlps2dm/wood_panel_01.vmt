@@ -1,0 +1,5 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "hlps2dm/wood_panel_01"
+	$surfaceprop wood
+}
