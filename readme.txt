@@ -1,9 +1,12 @@
 These are Half-Life PS2 decay and deathmatch map recreations I made for GMOD.
 https://steamcommunity.com/workshop/filedetails/?id=3217033872
 
-These use the halflife prop pack from the workshop (https://steamcommunity.com/workshop/filedetails/?id=665025902) but only for the health/suit chargers, eye scanners, and pool props used in ht05dorms. The rest I had to port myself.
+These use the halflife prop pack from the workshop (https://steamcommunity.com/workshop/filedetails/?id=665025902 ) but only for the health/suit chargers, eye scanners, and pool props used in ht05dorms. The rest I had to port myself.
 The folders contain an "assets" folder which contain the assets I ported or modified myself.
-I MADE THESE WITH PORTING THEM TO SOURCE IN MIND. This means that some entitys have been changed on principle to work better in source, like replacing trigger_auto/relay and multimanagers to their source counterparts with appropriate input/outputs as well as changing the textures that are attached to entities that use the renderamt keyvalue to modified unlitgeneric versions or making non $transparent versions of textures etc etc. Other than major player activated scripted events, these maps dont contain much entities and what entities are here are usually somewhat modified to work better in a sandbox environment.
+
+I MADE THESE WITH PORTING THEM TO SOURCE IN MIND.
+This means that some entitys have been changed on principle to work better in source, like replacing trigger_auto/relay and multimanagers to their source counterparts with appropriate input/outputs as well as changing the textures that are attached to entities that use the renderamt keyvalue to modified unlitgeneric versions or making non $transparent versions of textures etc etc. Other than major player activated scripted events, these maps dont contain much entities and what entities are here are usually somewhat modified to work better in a sandbox environment.
+
 Decay maps :
 ht01accident : fully completed but old and bad. a lot of changes from the base map like making sliding door glass func_breakable and increasing renderamt value instead of using unlitgeneric. alot of nodraw faces were given textures along with extra functionality and buttons added to OOB areas.
 ht01accident2 : only combined and de-disastered into accident1.
