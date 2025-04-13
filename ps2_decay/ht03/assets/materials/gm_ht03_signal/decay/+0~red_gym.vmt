@@ -1,0 +1,6 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "gm_ht03_signal/decay/+0~red_gym"
+	$selfillum 1
+	$surfaceprop metal
+}

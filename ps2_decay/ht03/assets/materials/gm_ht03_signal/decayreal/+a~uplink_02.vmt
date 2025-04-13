@@ -1,0 +1,13 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "gm_ht03_signal/decayREAL/+a~uplink_02"
+	$surfaceprop glass
+	Proxies
+	{
+		ToggleTexture
+		{
+			ToggleTextureVar	$basetexture
+			ToggleTextureFrameNumVar	$frame
+		}
+	}
+}

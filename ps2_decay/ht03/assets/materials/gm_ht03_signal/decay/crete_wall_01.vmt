@@ -1,0 +1,5 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "gm_ht03_signal/decay/crete_wall_01"
+	$surfaceprop concrete
+}
