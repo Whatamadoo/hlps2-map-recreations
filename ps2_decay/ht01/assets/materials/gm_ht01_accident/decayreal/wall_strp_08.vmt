@@ -1,0 +1,5 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "gm_ht01_accident/decayREAL/wall_strp_08"
+	$surfaceprop metal
+}

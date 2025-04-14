@@ -3,16 +3,16 @@ halflife/~light5a 80 150 200 200
 
 halflife/+0~light3a 180 180 230 700
 
-decay/ba_light01			255 255 255 200
+gm_ht01_accident/decay/ba_light01			255 255 255 200
+gm_ht01_accident/decay/0~FIFTIES_LGT2		160 170 220 300 
+gm_ht01_accident/decay/0light5a				80 150 200 200
+
 halflife/+0~generic86r		255 0 0 200
 halflife/+a~light3a			180 180 230 100
 HALFLIFE/+0~FIFTIES_LGT2	255 255 255 0 
 HALFLIFE/+a~FIFTIES_LGT2	255 255 255 0 
-decay/0~FIFTIES_LGT2		160 170 220 300 
-halflife/~light3c			255 248 192 200
+halflife/~light3c			255 248 192 150
 halflife/+0~LIGHT4A			200 190 130 450
-decay/0light5a				80 150 200 200
-
 
 halflife/+0~GENERIC86 252 192 12 150
 halflife/+a~generic86 176 201 222 150

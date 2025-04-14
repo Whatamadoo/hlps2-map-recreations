@@ -1,0 +1,5 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "gm_ht04_dampen/decayREAL/drawer_metal"
+	"$surfaceprop" "Metal"
+}

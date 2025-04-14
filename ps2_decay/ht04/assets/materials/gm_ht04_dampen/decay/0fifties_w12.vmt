@@ -1,0 +1,5 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "gm_ht04_dampen/decay/0fifties_w12"
+	$surfaceprop brick
+}

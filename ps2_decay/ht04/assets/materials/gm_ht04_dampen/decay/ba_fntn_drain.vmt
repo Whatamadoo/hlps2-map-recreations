@@ -1,0 +1,5 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "gm_ht04_dampen/decay/ba_fntn_drain"
+	$surfaceprop metal
+}

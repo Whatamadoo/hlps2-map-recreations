@@ -1,0 +1,5 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "gm_ht04_dampen/decay/cat_side"
+	$surfaceprop metal
+}

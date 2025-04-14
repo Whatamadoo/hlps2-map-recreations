@@ -1,0 +1,6 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "gm_ht01_accident/decay/ba_light01"
+	$surfaceprop glass
+	$selfillum 1
+}

@@ -1,0 +1,5 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "gm_ht04_dampen/halflife/lab1_map1-2"
+	$surfaceprop computer
+}

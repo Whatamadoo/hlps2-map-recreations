@@ -1,0 +1,6 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "gm_ht01_accident/decay/screen_barrel"
+	$surfaceprop computer
+	$selfillum 1
+}

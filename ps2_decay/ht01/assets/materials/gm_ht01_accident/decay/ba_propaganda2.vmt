@@ -1,0 +1,5 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "gm_ht01_accident/decay/ba_propaganda2"
+	$surfaceprop computer
+}

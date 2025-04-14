@@ -1,0 +1,5 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "gm_ht04_dampen/decay/lab_top_01"
+	$surfaceprop metal
+}

@@ -1,0 +1,5 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "gm_ht01_accident/halflifeREAL/glass_med"
+	"$surfaceprop" "Glass"
+}

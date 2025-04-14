@@ -1,0 +1,5 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "gm_ht04_dampen/decay/sign_lock_warn"
+	$surfaceprop metal
+}

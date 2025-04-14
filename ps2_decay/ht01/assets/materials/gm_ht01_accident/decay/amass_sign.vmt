@@ -1,0 +1,5 @@
+"UnlitGeneric"
+{
+	"$basetexture" "gm_ht01_accident/decay/amass_sign"
+	$surfaceprop computer
+}
