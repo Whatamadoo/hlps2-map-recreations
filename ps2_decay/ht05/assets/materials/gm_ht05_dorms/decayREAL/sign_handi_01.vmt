@@ -1,0 +1,5 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "gm_ht05_dorms/decayREAL/sign_handi_01"
+	$surfaceprop metal
+}

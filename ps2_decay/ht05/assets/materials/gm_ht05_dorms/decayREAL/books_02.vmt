@@ -1,0 +1,5 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "gm_ht05_dorms/decayREAL/books_02"
+	$surfaceprop paper
+}

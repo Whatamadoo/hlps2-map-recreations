@@ -1,0 +1,14 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "gm_ht05_dorms/decayREAL/0comp_a"
+	$surfaceprop computer
+	Proxies
+	{
+		ToggleTexture
+		{
+			ToggleTextureVar	$basetexture
+			ToggleTextureFrameNumVar	$frame
+		}
+	}
+
+}

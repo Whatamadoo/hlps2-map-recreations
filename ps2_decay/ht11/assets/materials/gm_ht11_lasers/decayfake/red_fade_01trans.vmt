@@ -1,0 +1,5 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "gm_ht11_lasers/decayfake/red_fade_01"
+	$translucent 1
+}

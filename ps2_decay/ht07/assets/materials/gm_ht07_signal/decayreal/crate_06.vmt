@@ -1,0 +1,5 @@
+LightmappedGeneric
+{
+	$basetexture gm_ht07_signal/decayreal/crate_06
+	$surfaceprop metal
+}

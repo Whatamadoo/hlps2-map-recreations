@@ -1,0 +1,6 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "gm_ht05_dorms/decay/{railing_03"
+	$surfaceprop metal
+	"$translucent" "1"
+}

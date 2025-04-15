@@ -1,0 +1,5 @@
+LightmappedGeneric
+{
+	$basetexture gm_ht07_signal/decayreal/sign_overide_01
+	$surfaceprop metal
+}

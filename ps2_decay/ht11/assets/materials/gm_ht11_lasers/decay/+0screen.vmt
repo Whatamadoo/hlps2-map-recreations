@@ -1,0 +1,12 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "gm_ht11_lasers/decay/+0screen"
+	Proxies
+	{
+		ToggleTexture
+		{
+			toggletexturevar $basetexture
+			toggletextureframenumvar $frame
+		}
+	}
+}

@@ -1,6 +1,0 @@
-LightmappedGeneric
-{
-	$basetexture decayreal/mon_secure_un
-	$surfaceprop computer
-	$selfillum 1
-}

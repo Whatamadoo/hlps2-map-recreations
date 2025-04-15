@@ -1,0 +1,16 @@
+LightmappedGeneric
+{
+	//VBSP doesn't like these door light brushes I guess because they're two identical brushes on top of eachother
+	//Instead of banging my head against a wall, I will simply turn them into one. They still need some fiddling
+	// but it makes it easier (How the hell I did this so easily before I have no idea.)
+	$basetexture gm_ht11_lasers/door_lamp_hack
+	$surfaceprop computer
+	Proxies
+	{
+		ToggleTexture
+		{
+			toggletexturevar $basetexture
+			toggletextureframenumvar $frame
+		}
+	}
+}

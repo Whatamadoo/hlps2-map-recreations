@@ -1,0 +1,6 @@
+LightmappedGeneric
+{
+	$basetexture gm_ht07_signal/decayreal/mon_secure_lock
+	$surfaceprop computer
+	$selfillum 1
+}

@@ -1,0 +1,5 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "gm_ht05_dorms/decay/0~fifties_lgt2"
+	$surfaceprop glass
+}

@@ -1,0 +1,5 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "gm_ht05_dorms/decay/names_01"
+	$surfaceprop metal
+}
