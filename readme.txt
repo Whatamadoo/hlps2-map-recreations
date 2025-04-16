@@ -12,7 +12,7 @@ Decay maps :
 ht01accident : fully completed but old and bad. a lot of changes from the base map like making sliding door glass func_breakable and increasing renderamt value instead of using unlitgeneric. alot of nodraw faces were given textures along with extra functionality and buttons added to OOB areas.
 ht01accident2 : only combined and de-disastered into accident1.
 ht02hazard : have not started.
-ht03uplink : fully completed. (assets folder uses the path ht03signal i cant be bothered to fix it right now)
+ht03uplink : fully completed.
 ht04dampen : fully completed. Has some changes I dont remember.
 ht05dorms : fully completed. I don't remember all the changes but I dont believe they're too bad. Though alot of nodraw surfaces have been given textures. 
 ht07signal : fully complete.
