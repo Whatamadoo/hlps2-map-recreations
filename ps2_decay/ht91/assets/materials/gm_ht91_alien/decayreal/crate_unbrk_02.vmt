@@ -1,0 +1,5 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "gm_ht91_alien/decayreal/crate_unbrk_02"
+	$surfaceprop concrete
+}

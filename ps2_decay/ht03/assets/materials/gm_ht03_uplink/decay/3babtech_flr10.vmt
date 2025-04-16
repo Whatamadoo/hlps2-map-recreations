@@ -1,0 +1,5 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "gm_ht03_uplink/decay/3babtech_flr10"
+	$surfaceprop concrete
+}

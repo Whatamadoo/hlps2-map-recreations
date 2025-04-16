@@ -1,0 +1,5 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "gm_ht91_alien/decayreal/a~light6a"
+	$surfaceprop glass
+}

@@ -1,0 +1,5 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "gm_ht91_alien/decayreal/18whl_floor"
+	$surfaceprop metal
+}

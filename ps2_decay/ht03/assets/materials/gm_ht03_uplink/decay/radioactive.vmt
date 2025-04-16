@@ -1,0 +1,8 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "gm_ht03_uplink/decay/radioactive"
+	"$surfaceprop" "water"
+	"%compilewater" 1
+	"$abovewater" 1
+	"$bottommaterial" "gm_ht03_uplink/liquidsREAL/watergreen_under"
+}

@@ -1,0 +1,5 @@
+LightmappedGeneric
+{
+	$basetexture gm_ht03_uplink/decayreal/nodraw
+	%compilenodraw 1
+}

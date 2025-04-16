@@ -1,0 +1,5 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "gm_ht03_uplink/decay/barrel_blu_01"
+	$surfaceprop metal
+}

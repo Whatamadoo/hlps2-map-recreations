@@ -1,0 +1,5 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "gm_ht91_alien/decayreal/blk_trk_tire"
+	$surfaceprop rubbertire
+}

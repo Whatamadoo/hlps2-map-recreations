@@ -22,7 +22,6 @@ ht12fubar : have not started.
 ht91alien : fully complete. Has some fake lights to better recreate original lighting.
 
 I also did these, same principles from above apply (changing ents, textures to work in source). These just have one 'assets' folder since I made them as part of the same addon.
-https://steamcommunity.com/sharedfiles/filedetails/?id=3377424537
 PS2 Deathmatch maps :
 basement : fully complete
 datacore2 : have not started (and no plan to)
