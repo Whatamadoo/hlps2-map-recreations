@@ -1,0 +1,12 @@
+LightmappedGeneric
+{
+	$basetexture gm_ht02_hazard/decayreal/+asign_valve
+	Proxies
+	{
+		ToggleTexture
+		{
+			toggletexturevar $basetexture
+			toggletextureframenumvar $frame
+		}
+	}
+}

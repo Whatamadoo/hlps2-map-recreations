@@ -1,0 +1,6 @@
+Sprite
+{
+	$basetexture gm_ht02_hazard/sprites/fire01
+	"$spriteorientation" "oriented"
+	"$spriteorigin" "[ 0.50 0.50 ]"
+}
