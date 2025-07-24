@@ -1,0 +1,5 @@
+VertexLitGeneric
+{
+	$basetexture  gm_ht12_fubar\models\focus_emitter\BASE_ARM
+	$model 1
+}

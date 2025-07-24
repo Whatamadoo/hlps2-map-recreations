@@ -1,0 +1,5 @@
+"UnlitGeneric"
+{
+	"$basetexture" "gm_ht12_fubar/decayreal/decay_glass"
+	$surfaceprop glass
+}

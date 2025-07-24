@@ -1,0 +1,9 @@
+Sky
+{
+	//I wish these didn't have to be in the skybox folder.
+	$basetexture skybox/gm_ht12_fubar_nightbk
+	$hdrbasetexture skybox/gm_ht12_fubar_nightbk
+	$nofog 1
+	$nomip 1
+	$ignorez 1
+}
